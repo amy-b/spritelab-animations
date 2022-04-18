@@ -1,0 +1,550 @@
+{
+  "orderedKeys": [
+    "9f6ffb7d-51f2-4eab-bf5d-af81f0076d40",
+    "2784124e-e1aa-438e-8798-6f9163be265a",
+    "285d71d0-bbb1-4436-a0c7-240ce4cbd10d",
+    "30b5c141-a624-4e71-8efd-7eaa6191bc29",
+    "4ab5f032-b93c-4b07-8c92-2c5058d19b88",
+    "dc92c410-21c2-4a6d-b2e1-59015fdb08d1",
+    "84ba8231-c503-4446-bb1e-811c8fe86a6f",
+    "8f646420-eb76-4209-94ad-9b28475d459d",
+    "e70368bb-60fe-4438-ad62-8621acee4d65",
+    "d764b7a8-82bd-43e2-b8b1-f79f15fd8dc2",
+    "0016c7be-425e-4a47-9eb9-7c8fef5d25f3",
+    "2b106fbc-185e-44e4-a394-79a87670f990",
+    "402ef300-a465-420a-984a-410515c71a2b",
+    "fc0985b4-28f5-448d-9ced-1d9c594bd056",
+    "9606738e-00a4-4d13-ac40-7e62cab4ff88",
+    "7b7a51d6-f976-427d-988e-48531bca5ed0",
+    "f3870a3c-7f5f-4393-be24-55b64edba582",
+    "4a5ec0d6-dcd4-43d2-a08a-b680fd9a93e7",
+    "2e670eca-c15e-49bd-a075-70093688b15c",
+    "587b59cd-094c-405e-a5c0-0b0c72dd0a50",
+    "6e30b3e0-58ef-49d2-a838-ea8ac0e50ee9",
+    "d9efece0-3497-4765-bcf0-9e5569d008b3",
+    "0cff41fa-7801-4f84-ba7f-153064666363",
+    "4a82e4d2-d351-45c9-bae0-dd2695a29321",
+    "22d3dda7-ddd8-4f0b-a8b9-d0b83728fb7d",
+    "e0938f56-8259-4efa-aa1f-bed63d3b8708",
+    "a2897252-4684-4513-a5b6-4439a710a2dc",
+    "a7dd84ee-aece-49a2-a414-3179f5d6c8c6",
+    "5bdcdc80-b3cb-41be-87ca-28386f9e207e",
+    "c1f9d844-f9f0-47fd-919f-762eadbaa7df",
+    "7f6722de-d7fd-4ef4-85dd-2e6b0ed7e7f7",
+    "59b0c860-3552-4d36-89ec-feedd816428d",
+    "6de6c422-6907-45ee-98e9-497f76ccafdf",
+    "c03ec527-56cc-4149-94ea-63b233236f94"
+  ],
+  "propsByKey": {
+    "9f6ffb7d-51f2-4eab-bf5d-af81f0076d40": {
+      "name": "tree_island",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/PN0syiuvcelHqUtdtYATFOdGBRfFe2ua/category_backgrounds/tree_island.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "PN0syiuvcelHqUtdtYATFOdGBRfFe2ua",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "2784124e-e1aa-438e-8798-6f9163be265a": {
+      "name": "meadow",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/CB1PYdRlycVjbBIg9tk9rpAeiKAp3bEN/meadow.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "CB1PYdRlycVjbBIg9tk9rpAeiKAp3bEN",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "285d71d0-bbb1-4436-a0c7-240ce4cbd10d": {
+      "name": "desert",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/Yh15jDhuuZz8tUVr8WPGgk30OPrIpaJN/desert.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Yh15jDhuuZz8tUVr8WPGgk30OPrIpaJN",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "30b5c141-a624-4e71-8efd-7eaa6191bc29": {
+      "name": "background_landscape_28",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/LZXyNpSiLGKtdWSk1goqIUcASiThpg3E/category_backgrounds/background_landscape_28.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "LZXyNpSiLGKtdWSk1goqIUcASiThpg3E",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "4ab5f032-b93c-4b07-8c92-2c5058d19b88": {
+      "name": "world-map",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/j9QOdpWu.JzqROzGFFPd5pXDSbNOdgaG/world-map.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "j9QOdpWu.JzqROzGFFPd5pXDSbNOdgaG",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "dc92c410-21c2-4a6d-b2e1-59015fdb08d1": {
+      "name": "forest",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/Y7raWTqnv9VZrTGiQBsu8ukz_ofafQTH/forest.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Y7raWTqnv9VZrTGiQBsu8ukz_ofafQTH",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "84ba8231-c503-4446-bb1e-811c8fe86a6f": {
+      "name": "background_underwater_07",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/BpRHLcWXYq7i_l930PFSE_f1Iobo7v1C/category_backgrounds/background_underwater_07.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "BpRHLcWXYq7i_l930PFSE_f1Iobo7v1C",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "8f646420-eb76-4209-94ad-9b28475d459d": {
+      "name": "background_underwater_17",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/T3iCeWVvk34YAqG8qfnOzbGcWXDnBqlp/category_backgrounds/background_underwater_17.png",
+      "frameSize": {
+        "x": 400,
+        "y": 399
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "T3iCeWVvk34YAqG8qfnOzbGcWXDnBqlp",
+      "categories": [
+        "backgrounds"
+      ]
+    },
+    "e70368bb-60fe-4438-ad62-8621acee4d65": {
+      "name": "giraffe_short",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/L7IrhidVt5FUIC5jxVLFNs25pOIPXFHm/giraffe_short.png",
+      "frameSize": {
+        "x": 275,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "L7IrhidVt5FUIC5jxVLFNs25pOIPXFHm",
+      "categories": [
+        ""
+      ]
+    },
+    "d764b7a8-82bd-43e2-b8b1-f79f15fd8dc2": {
+      "name": "giraffe_medium",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/opWoCq.wP.nZoMi1s9_MGZmLB9OMFCbW/giraffe_medium.png",
+      "frameSize": {
+        "x": 275,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "opWoCq.wP.nZoMi1s9_MGZmLB9OMFCbW",
+      "categories": [
+        ""
+      ]
+    },
+    "0016c7be-425e-4a47-9eb9-7c8fef5d25f3": {
+      "name": "giraffe_1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/Tyoinrt4z05NxrL2d6LUqmYyAK_b7.Xr/giraffe_1.png",
+      "frameSize": {
+        "x": 275,
+        "y": 396
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Tyoinrt4z05NxrL2d6LUqmYyAK_b7.Xr",
+      "categories": [
+        ""
+      ]
+    },
+    "2b106fbc-185e-44e4-a394-79a87670f990": {
+      "name": "rabbit-1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/1XYApA5QwtK9jbb5DTYD_O175Kx_dO5F/rabbit-1.png",
+      "frameSize": {
+        "x": 189,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "1XYApA5QwtK9jbb5DTYD_O175Kx_dO5F",
+      "categories": [
+        ""
+      ]
+    },
+    "402ef300-a465-420a-984a-410515c71a2b": {
+      "name": "rabbit-sandy",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/dhSmU6UM1GXSVeM8KTglPacniPc676g_/rabbit-sandy.png",
+      "frameSize": {
+        "x": 189,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "dhSmU6UM1GXSVeM8KTglPacniPc676g_",
+      "categories": [
+        ""
+      ]
+    },
+    "fc0985b4-28f5-448d-9ced-1d9c594bd056": {
+      "name": "rabbit-snowy",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/iDsTje0Jdf7hnUdcRRXRgh7yyQLBfapg/rabbit-snowy.png",
+      "frameSize": {
+        "x": 189,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "iDsTje0Jdf7hnUdcRRXRgh7yyQLBfapg",
+      "categories": [
+        ""
+      ]
+    },
+    "9606738e-00a4-4d13-ac40-7e62cab4ff88": {
+      "name": "whale-4",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/wr20GPxFd_WZI5F.9pBP2vHXHUpUrhak/whale-4.png",
+      "frameSize": {
+        "x": 400,
+        "y": 183
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "wr20GPxFd_WZI5F.9pBP2vHXHUpUrhak",
+      "categories": [
+        ""
+      ]
+    },
+    "7b7a51d6-f976-427d-988e-48531bca5ed0": {
+      "name": "whale-1",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/level_animations/zCc7IogcbHrLkIfF5CaSY.h8DKLxZnBW/whale-1.png",
+      "frameSize": {
+        "x": 400,
+        "y": 189
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "zCc7IogcbHrLkIfF5CaSY.h8DKLxZnBW",
+      "categories": [
+        ""
+      ]
+    },
+    "f3870a3c-7f5f-4393-be24-55b64edba582": {
+      "name": "beetle2",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/tJ8e1ElMYXBrzCJAM84uu1QvsUJlGyuk/category_animals/beetle2.png",
+      "frameSize": {
+        "x": 369,
+        "y": 323
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "tJ8e1ElMYXBrzCJAM84uu1QvsUJlGyuk",
+      "categories": [
+        "animals"
+      ]
+    },
+    "4a5ec0d6-dcd4-43d2-a08a-b680fd9a93e7": {
+      "name": "beetle",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/Sg2WnrZCXVUgsmNh77_Zpmmfn2conhpA/category_animals/beetle.png",
+      "frameSize": {
+        "x": 387,
+        "y": 358
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Sg2WnrZCXVUgsmNh77_Zpmmfn2conhpA",
+      "categories": [
+        "animals"
+      ]
+    },
+    "2e670eca-c15e-49bd-a075-70093688b15c": {
+      "name": "cuteanimals_owl_hello",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/ZeKzA__LRKNeB7hsKocTo_WYP.kBExIy/category_animals/cuteanimals_owl_hello.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "ZeKzA__LRKNeB7hsKocTo_WYP.kBExIy",
+      "categories": [
+        "animals"
+      ]
+    },
+    "587b59cd-094c-405e-a5c0-0b0c72dd0a50": {
+      "name": "dolphin",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/ul11nGGXQlHKMBNrBp1qmBJbS9fwg3UJ/category_animals/dolphin.png",
+      "frameSize": {
+        "x": 395,
+        "y": 315
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "ul11nGGXQlHKMBNrBp1qmBJbS9fwg3UJ",
+      "categories": [
+        "animals"
+      ]
+    },
+    "6e30b3e0-58ef-49d2-a838-ea8ac0e50ee9": {
+      "name": "cuteanimals_shark",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/QxTmMlWfOMiuh.2SlTn5whkqLcJczeUx/category_animals/cuteanimals_shark.png",
+      "frameSize": {
+        "x": 400,
+        "y": 400
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "QxTmMlWfOMiuh.2SlTn5whkqLcJczeUx",
+      "categories": [
+        "animals"
+      ]
+    },
+    "d9efece0-3497-4765-bcf0-9e5569d008b3": {
+      "name": "shark",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/xCviHEh_mf4AvODEY_xFeI008j9L3HR5/category_animals/shark.png",
+      "frameSize": {
+        "x": 397,
+        "y": 185
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "xCviHEh_mf4AvODEY_xFeI008j9L3HR5",
+      "categories": [
+        "animals"
+      ]
+    },
+    "0cff41fa-7801-4f84-ba7f-153064666363": {
+      "name": "tropicalfish_06",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/FJ5AbPlxrwpqjyDUe0MTfMuGLEVOdIEH/category_animals/tropicalfish_06.png",
+      "frameSize": {
+        "x": 400,
+        "y": 151
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "FJ5AbPlxrwpqjyDUe0MTfMuGLEVOdIEH",
+      "categories": [
+        "animals"
+      ]
+    },
+    "4a82e4d2-d351-45c9-bae0-dd2695a29321": {
+      "name": "tropicalfish_04",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/HgcCG6ctH2acGz3C0qLMoA4c_UbzCyya/category_animals/tropicalfish_04.png",
+      "frameSize": {
+        "x": 400,
+        "y": 324
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "HgcCG6ctH2acGz3C0qLMoA4c_UbzCyya",
+      "categories": [
+        "animals"
+      ]
+    },
+    "22d3dda7-ddd8-4f0b-a8b9-d0b83728fb7d": {
+      "name": "lobster",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/UzMdCROxy1_9NeKvoiT.wfxFBQewl2yP/category_animals/lobster.png",
+      "frameSize": {
+        "x": 230,
+        "y": 392
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "UzMdCROxy1_9NeKvoiT.wfxFBQewl2yP",
+      "categories": [
+        "animals"
+      ]
+    },
+    "e0938f56-8259-4efa-aa1f-bed63d3b8708": {
+      "name": "seahorse",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/MiID63wMCVKlhIEXeIe0MZX.VWm4zlo5/category_animals/seahorse.png",
+      "frameSize": {
+        "x": 214,
+        "y": 395
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "MiID63wMCVKlhIEXeIe0MZX.VWm4zlo5",
+      "categories": [
+        "animals"
+      ]
+    },
+    "a2897252-4684-4513-a5b6-4439a710a2dc": {
+      "name": "seaturtle",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/B.xAmpQc6ABIHVNkvg1kOsMKumqPakJY/category_animals/seaturtle.png",
+      "frameSize": {
+        "x": 393,
+        "y": 248
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "B.xAmpQc6ABIHVNkvg1kOsMKumqPakJY",
+      "categories": [
+        "animals"
+      ]
+    },
+    "a7dd84ee-aece-49a2-a414-3179f5d6c8c6": {
+      "name": "hermitcrab",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/mC0xvRW7PGyJpjn6_ngdMyfXvRPXOdAM/category_animals/hermitcrab.png",
+      "frameSize": {
+        "x": 399,
+        "y": 387
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "mC0xvRW7PGyJpjn6_ngdMyfXvRPXOdAM",
+      "categories": [
+        "animals"
+      ]
+    },
+    "5bdcdc80-b3cb-41be-87ca-28386f9e207e": {
+      "name": "jelly",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/8Jzih.L286zq88fHdu3ZKKB9NEyCIKW4/category_animals/jelly.png",
+      "frameSize": {
+        "x": 331,
+        "y": 398
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "8Jzih.L286zq88fHdu3ZKKB9NEyCIKW4",
+      "categories": [
+        "animals"
+      ]
+    },
+    "c1f9d844-f9f0-47fd-919f-762eadbaa7df": {
+      "name": "lionfish",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/F6LAtaTRFFxaWgGdMWhSf4gRUXJgAwx1/category_animals/lionfish.png",
+      "frameSize": {
+        "x": 398,
+        "y": 378
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "F6LAtaTRFFxaWgGdMWhSf4gRUXJgAwx1",
+      "categories": [
+        "animals"
+      ]
+    },
+    "7f6722de-d7fd-4ef4-85dd-2e6b0ed7e7f7": {
+      "name": "underseadeco_25",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/BhwhWkxxwEdIvnGKm6st6kqUm9QvS.bw/category_aquatic_objects/underseadeco_25.png",
+      "frameSize": {
+        "x": 316,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "BhwhWkxxwEdIvnGKm6st6kqUm9QvS.bw",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "59b0c860-3552-4d36-89ec-feedd816428d": {
+      "name": "underseadeco_24",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/Od2KSKc7q9fYUdp.Fm0RCZPcgTjygssc/category_aquatic_objects/underseadeco_24.png",
+      "frameSize": {
+        "x": 301,
+        "y": 397
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "Od2KSKc7q9fYUdp.Fm0RCZPcgTjygssc",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "6de6c422-6907-45ee-98e9-497f76ccafdf": {
+      "name": "underseadeco_03",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/PyJCI9y6TP.3eJq8JmnW5FX8NLwcQ6t./category_aquatic_objects/underseadeco_03.png",
+      "frameSize": {
+        "x": 278,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "PyJCI9y6TP.3eJq8JmnW5FX8NLwcQ6t.",
+      "categories": [
+        "aquatic_objects"
+      ]
+    },
+    "c03ec527-56cc-4149-94ea-63b233236f94": {
+      "name": "underseadeco_34",
+      "sourceUrl": "https://levelbuilder-studio.code.org/api/v1/animation-library/spritelab/TINTYofzHWerk8F0c7uJG1h8n3zbRB1j/category_aquatic_objects/underseadeco_34.png",
+      "frameSize": {
+        "x": 280,
+        "y": 394
+      },
+      "frameCount": 1,
+      "looping": true,
+      "frameDelay": 2,
+      "version": "TINTYofzHWerk8F0c7uJG1h8n3zbRB1j",
+      "categories": [
+        "aquatic_objects"
+      ]
+    }
+  }
+}
